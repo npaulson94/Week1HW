@@ -8,6 +8,9 @@ public class Main {
 		
 		System.out.println(fullName);
 		
+		System.out.println("My name is " + fullName + "." + " I just moved to Durango, Colorado.");
+		
+		
 	}
 
 }
